@@ -93,7 +93,7 @@ function App() {
                 description="A full-stack e-commerce platform with real-time inventory management and payment integration"
                 tech={["React", "Node.js", "MongoDB", "Stripe", "Redux"]}
                 link="#"
-                image="https://i.imgur.com/pMvCo92.png"
+                image="https://imgur.com/b2drOq4.png"
               />
               <ProjectCard
                 title="Acanavi"
